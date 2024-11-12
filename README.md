@@ -1,0 +1,1 @@
+## Sentiment analysis, whether the statement is positive or negative
